@@ -26,13 +26,5 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shani-chaubey/E-Shopify.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Shani-chaubey/E-Shopify/issues"
-  },
-  "homepage": "https://github.com/Shani-chaubey/E-Shopify#readme",
   "description": ""
 }
